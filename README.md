@@ -108,6 +108,7 @@ project/
 ├── trainer.py       # Training loop and logic
 ├── evaluation.py    # Evaluation of word embeddings
 ├── main.py          # Main script to run training and evaluation
+├── utils.py         # Utility functions
 ├── requirements.txt # Python dependencies
 ├── FAQ.md           # Frequently asked questions
 └── README.md        # Your project's documentation
@@ -185,6 +186,7 @@ python main.py
 ├── trainer.py       # Training loop and logic
 ├── evaluation.py    # Evaluation of word embeddings
 ├── main.py          # Main script to run training and evaluation
+├── utils.py         # Utility functions
 ├── requirements.txt # Python dependencies
 ├── FAQ.md           # Frequently asked questions
 └── README.md        # Your project's documentation
